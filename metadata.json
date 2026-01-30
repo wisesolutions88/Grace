@@ -1,0 +1,7 @@
+{
+  "name": "Grace & Gather",
+  "description": "A life-first Bible study app for moms, focusing on emotional well-being, grace-filled micro-studies, and community support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
